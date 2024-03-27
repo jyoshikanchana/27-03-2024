@@ -5,7 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>in.ashokit</groupId>
+<<<<<<< HEAD
   <artifactId>my-app-123</artifactId>
+=======
+  <artifactId>standaloneapp</artifactId>
+>>>>>>> 9dca94a00d8f531e483d14fbc4dab18495d5655d
   <version>1.0-SNAPSHOT</version>
 
   <name>my-standalone-appNew</name>
